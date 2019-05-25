@@ -1,0 +1,2 @@
+,loss,mean_absolute_error,acc,recall_m,precision_m,f1_m
+0,0.019022123859031126,0.019093874841928482,1.0,1.0,1.0,1.0
